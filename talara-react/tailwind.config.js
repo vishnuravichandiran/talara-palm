@@ -1,0 +1,1 @@
+export default { content: ['./index.html', './src/**/*.{js,ts,jsx,tsx}'], theme: { extend: { colors: { amber: { 350: '#f5be6b', 450: '#d9923b', 550: '#b87523' } } } }, plugins: [] }
